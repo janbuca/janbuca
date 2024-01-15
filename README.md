@@ -10,11 +10,15 @@
 
 - 👨‍💻 All of my Class (clone) projects are available like [Netflix-clone](https://netflix.com/), [Amazon-Clone](https://amazon.com/), [Evangadi-forum](https://www.evangadi.com/), [Zoom-clone](https://zoom.us/).
 
-- 💬 Wanna! Ask me about anything, Except my personal life 😅? on [Instagram](https://www.instagram.com/firew_kifle/), [Telegram](https://t.me/@Janbuca), on [LinkedIn](https://www.linkedin.com/in/firew-kifle-b665742a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkHRXX5lbTOKv2l02qFw6dg%3D%3D), or email [janbuca369@gmail.com](janbuca369@gmail.com).
+- 💬 Wanna! Ask me about anything, Except my personal life 😅? on [Instagram](https://www.instagram.com/firew_kifle/), [Telegram](https://t.me/@Janbuca), on [LinkedIn](https://www.linkedin.com/in/firew-kifle-b665742a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkHRXX5lbTOKv2l02qFw6dg%3D%3D), or email 'janbuca369@gmail.com'.
+
+- 🔥 Life Hack: Learn new tech and share what you have learned
 
 - ⚡ what do I enjoy? all day 🏃Work on Gym 🏋️‍♂️ and create content 📷🎥 🖋 it also play Game 🎲.
   
-- ⚡Fun fact: I waste most of my time Content Creator 
+- ⚡Fun fact: I waste most of my time Content Creator
+
+- 🤝 Support Me to Teaching children
 
 - 🕸 Personal webiste [Portfolio](https://elshadaik.github.io/) 
 <h3 align="center">"Firest rule of programming If it works then Don't Touth it" <br> <Strong>እራስህ ለራስህ</Strong> </h1>
