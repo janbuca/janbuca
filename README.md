@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Firew kifle</h1>
 <h3 align="center">A little about <Strong>Me</Strong></h1>
 
-- 🌱 I'm passionate to full stack web developer from Ethiopia. it also interested in AI, ML, and Content Creator.
+- 🌱 I'm interested in AI, ML, and Content Creator.
 
 - 👯 I'm currently Student at [Unity University](https://www.uu.edu.et/), [Evangadi-Networks](https://www.evangadi.com/), [AlX-ethiopia](https://www.alxethiopia.com/).
   
-- 🔭 I’m currently working on [Freelance-Ethiopian-Afriwork](https://t.me/freelance_ethio) and  internship program [Ethiojobs](https://www.ethiojobs.net/).
+- 🔭 I’m currently working on [Freelance-Ethiopian-Afriwork](https://t.me/freelance_ethio) and working on Something Intresting.....
 
-- 👨‍💻 All of my Class projects are available like [Netflix-clone](https://netflix.com/), [Amazon-Clone](https://amazon.com/), [Evangadi-forum](https://www.evangadi.com/), [Zoom-clone](https://zoom.us/).
+- 👨‍💻 All of my Class (clone) projects are available like [Netflix-clone](https://netflix.com/), [Amazon-Clone](https://amazon.com/), [Evangadi-forum](https://www.evangadi.com/), [Zoom-clone](https://zoom.us/).
 
-- 💬 Wanna! How to reach me or Ask me about? You can find me on [Instagram](https://www.instagram.com/firew_kifle/), [Telegram](https://https://web.telegram.org/@Janbuca), on [LinkedIn](https://www.linkedin.com/in/firew-kifle-b665742a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkHRXX5lbTOKv2l02qFw6dg%3D%3D), or email [Firew Kifle](janbuca369@gmail.com).
+- 💬 Wanna! Ask me about anything, Except my personal life 😅? You can find me on [Instagram](https://www.instagram.com/firew_kifle/), [Telegram](https://https://web.telegram.org/@Janbuca), on [LinkedIn](https://www.linkedin.com/in/firew-kifle-b665742a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkHRXX5lbTOKv2l02qFw6dg%3D%3D), or email [janbuca369@gmail.com](janbuca369@gmail.com).
 
 - ⚡ A part from coding, what do I enjoy? 🏃⚽(still Work Gym 🏋️‍♂️) and create content 📷🎥 🖋 it also play Game 🎲.
 
