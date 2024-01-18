@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on [Freelance-Ethiopian-Afriwork](https://t.me/freelance_ethio) and working on Something Intresting.....
 
-- 👨‍💻 All of my Class (clone) projects are available like [Netflix-clone](https://netflix.com/), [Amazon-Clone](https://amazon.com/), [Evangadi-forum](https://www.evangadi.com/), [Zoom-clone](https://zoom.us/).
+- 👨‍💻 All of my Class (clone) projects are available like [Netflix-clone](https://janbuca.github.io/Netflix-Clone/), [Amazon-Clone](https://amazon.com/), [Evangadi-forum](https://www.evangadi.com/), [Zoom-clone](https://zoom.us/).
 
 - 💬 Wanna! Ask me about anything, Except my personal life 😅? on [Instagram](https://www.instagram.com/firew_kifle/) or email janbuca369@gmail.com.
 
