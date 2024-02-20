@@ -16,7 +16,7 @@
 
 - ⚡ what do I enjoy? all day 🏃Work on Gym 🏋️‍♂️ and create content 📷🎥 🖋 it also play Game 🎲.
   
-- ⚡Fun fact: I waste most of my time Content Creator
+- ⚡Fun fact: I waste most of my time by Content Creator
 
 - 🤝 Support Me to Teaching children
 
