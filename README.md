@@ -6,7 +6,7 @@
 
 - 👯 I'm currently Student at [Unity University](https://www.uu.edu.et/), [Evangadi-Networks](https://www.evangadi.com/), [AlX-ethiopia](https://www.alxethiopia.com/).
   
-- 🔭 I’m currently working on [Freelance-Ethiopian-Afriwork](https://t.me/freelance_ethio) and Internship programm at [CodeAlpha](https://www.codealpha.tech/) working on Something Intresting.....
+- 🔭 I’m currently working on [Freelance-Ethiopian-Afriwork](https://t.me/freelance_ethio) and Internship programm at [CodeAlpha](https://www.codealpha.tech/) Something Intresting.....
 
 - 👨‍💻 Some of my Class projects are available link [Blue moon hotel](https://janbuca.github.io/Blue-moon-hotel/), [Netflix-clone](https://janbuca.github.io/Netflix-Clone/), [Amazon-Clone](https://clone-ee7ea.web.app/), [Evangadi-forum](https://www.evangadi.com/), [Zoom-clone](https://zoom.us/).
 
