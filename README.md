@@ -20,7 +20,7 @@
 
 - 🤝 Support Me to Teaching children
 
-- 🕸 Personal webiste [Portfolio](https://elshadaik.github.io/) 
+- 🕸 Personal webiste [Portfolio](https://janbuca.github.io/) 
 <h3 align="center">"Firest rule of programming If it works then Don't Touth it" <br> <Strong>እራስህ ለራስህ</Strong> </h1>
 
 <h3 align="center">Professional SkillSet</h3>
